@@ -1,9 +1,14 @@
 /* 1. Adicione uma cor de fundo específica para a página */
+/* 13. Utilize o Box model */
 body {
   background-color: rgb(253, 251, 251);
+  width: 500px;
+  margin: auto;
 }
 
 header {
   position: fixed;
   top: 0;
+  padding: 10px;
+  border: 2px solid green;
 }
