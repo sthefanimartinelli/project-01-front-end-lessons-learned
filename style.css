@@ -20,6 +20,7 @@ header {
 /* 15. Posicione a tag article e a tag aside uma ao lado do outra */
 
 article, aside {
-    display: inline-block;
-    width: 300px;
+  display: inline-block;
+  width: 300px;
+  margin: 10px;
 }
