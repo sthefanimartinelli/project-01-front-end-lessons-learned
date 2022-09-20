@@ -4,6 +4,10 @@ body {
   background-color: rgb(253, 251, 251);
   width: 500px;
   margin: auto;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 10px;
+  color: green;
+  font-size: medium;
 }
 
 header {
