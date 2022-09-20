@@ -1,14 +1,16 @@
 /* 1. Adicione uma cor de fundo específica para a página */
+
 /* 13. Utilize o Box model */
 
 body {
   background-color: rgb(253, 251, 251);
   width: 500px;
   margin: auto;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  line-height: 10px;
+  font-family: Lucida Sans, sans-serif;
+  line-height: 15px;
   color: green;
   font-size: medium;
+  margin-top: 100px;
 }
 
 header {
