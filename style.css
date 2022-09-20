@@ -4,13 +4,10 @@
 
 body {
   background-color: rgb(253, 251, 251);
-  width: 500px;
-  margin: auto;
   font-family: Lucida Sans, sans-serif;
   line-height: 15px;
   color: green;
   font-size: medium;
-  margin-top: 100px;
 }
 
 header {
@@ -24,4 +21,5 @@ header {
 
 article, aside {
     display: inline-block;
+    width: 300px;
 }
