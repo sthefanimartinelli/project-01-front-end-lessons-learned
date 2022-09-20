@@ -1,9 +1,9 @@
 /* 1. Adicione uma cor de fundo específica para a página */
 body {
-    background-color: rgb(253, 251, 251);
+  background-color: rgb(253, 251, 251);
 }
 
 header {
-    position: fixed;
-    top: 0;
+  position: fixed;
+  top: 0;
 }
