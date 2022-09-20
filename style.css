@@ -1,5 +1,6 @@
 /* 1. Adicione uma cor de fundo específica para a página */
 /* 13. Utilize o Box model */
+
 body {
   background-color: rgb(253, 251, 251);
   width: 500px;
@@ -15,4 +16,10 @@ header {
   top: 0;
   padding: 10px;
   border: 2px solid green;
+}
+
+/* 15. Posicione a tag article e a tag aside uma ao lado do outra */
+
+article, aside {
+    display: inline-block;
 }
