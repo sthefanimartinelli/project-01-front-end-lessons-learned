@@ -3,24 +3,30 @@
 /* 13. Utilize o Box model */
 
 body {
-  background-color: rgb(253, 251, 251);
-  font-family: Lucida Sans, sans-serif;
-  line-height: 15px;
-  color: green;
-  font-size: medium;
+    background-color: rgb(253, 251, 251);
+    font-family: "Montserrat", sans-serif;
+    line-height: 15px;
+    color: black;
+    font-weight: 0;
 }
 
 header {
-  position: fixed;
-  top: 0;
-  padding: 10px;
-  border: 2px solid green;
+    position: sticky;
+    background-color: pink;
+    top: 0;
+    padding: 10px;
+    border: 2px solid palevioletred;
+    font-size: 100;
 }
 
 /* 15. Posicione a tag article e a tag aside uma ao lado do outra */
 
 article, aside {
-  display: inline-block;
-  width: 300px;
-  margin: 10px;
+    display: inline-block;
+    width: 300px;
+    margin: 10px; 
+}
+
+table, td {
+    border:1px solid;
 }
